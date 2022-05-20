@@ -1,6 +1,5 @@
 require('dotenv').config()
 const express = require('express')
-// const placesRoutes = require('.controllers/places')
 
 const app = express()
 
